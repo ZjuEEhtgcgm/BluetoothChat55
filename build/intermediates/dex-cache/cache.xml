@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\f74ef9bc7ac094ae1db7ded3880ae06c37191b9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_4079ffb305305a9d74cb5daffe541345c1b4fe34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\ae39b1244f5b8d1450eebebd09981c0e4e51153c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef8b41717d8a974c1f58a5a3bcb987d86e148ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\3f71c9e8efbbed4a59b751e2647ff21f31b18095\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006577f3262b556949ae4b185ab9299827a3d402\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\ae39b1244f5b8d1450eebebd09981c0e4e51153c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_01e61306c5efcefcf54c4d48cb2c9119c059120d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\ae39b1244f5b8d1450eebebd09981c0e4e51153c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_01e61306c5efcefcf54c4d48cb2c9119c059120d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\3f71c9e8efbbed4a59b751e2647ff21f31b18095\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_006577f3262b556949ae4b185ab9299827a3d402.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\a63a47b9960f03b750b4ba76bea04ffdbe5766ea\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ddc167d6de26dd02c5c47a5c229a4de7f0914b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\a63a47b9960f03b750b4ba76bea04ffdbe5766ea\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ddc167d6de26dd02c5c47a5c229a4de7f0914b44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\a63a47b9960f03b750b4ba76bea04ffdbe5766ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff08104870d02751945b8d56012a51e9cc0e24cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5d5c418ec60eeb9e0513f0aa7d54b8a902cfecfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\ae39b1244f5b8d1450eebebd09981c0e4e51153c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_ef8b41717d8a974c1f58a5a3bcb987d86e148ac6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\f74ef9bc7ac094ae1db7ded3880ae06c37191b9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4079ffb305305a9d74cb5daffe541345c1b4fe34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_5d5c418ec60eeb9e0513f0aa7d54b8a902cfecfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\a63a47b9960f03b750b4ba76bea04ffdbe5766ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_ff08104870d02751945b8d56012a51e9cc0e24cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\73da040d028aa4928fb9864879053337b1a6dc01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc8287c9a5f627ccb07bfda93d578981dfc56983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\f0aba75cfa58ec58fdb25f4fa31a5723bb8b006f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5baad4a77806cee84359b27c21ad729d374c7cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\f74ef9bc7ac094ae1db7ded3880ae06c37191b9e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f23df85c091e4754bfbf3c13477851ccc3cf8b0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\73da040d028aa4928fb9864879053337b1a6dc01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_fc8287c9a5f627ccb07bfda93d578981dfc56983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\ab9c998fc83ca03161b637866b7a2e6a363d0e2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_bbdd93da231e0c7191a062c6bf1116e198b7196f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\f0aba75cfa58ec58fdb25f4fa31a5723bb8b006f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_5baad4a77806cee84359b27c21ad729d374c7cdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\1a95e9eaf6b948be04ed23bab7dacd233d6e6000\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d45705397b4272b78743e702f624699cd5c15fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\f74ef9bc7ac094ae1db7ded3880ae06c37191b9e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f23df85c091e4754bfbf3c13477851ccc3cf8b0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\google\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fd29ffc3eb5abf9cc2f3b92935096f9026bd358">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dfcac33306733228021d7ec920e28031fc1f01e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\ab9c998fc83ca03161b637866b7a2e6a363d0e2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbdd93da231e0c7191a062c6bf1116e198b7196f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\google\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ed41c01ea286a2259e79500d31482b8d94a4f917\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\73da040d028aa4928fb9864879053337b1a6dc01\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_14e552d10f221900f52e0f2edc8cfd216d01f097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\b6dc068654041c722d411edb3f604479541d81c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_738b46ae952f4f0f85afc03109311e0e302e2c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\d7e899f5e41624e5ba06611b094404e9f02f5d31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_c3f701d39498ffc8945c587bc180310cd26606ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\73da040d028aa4928fb9864879053337b1a6dc01\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_14e552d10f221900f52e0f2edc8cfd216d01f097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\b6dc068654041c722d411edb3f604479541d81c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_738b46ae952f4f0f85afc03109311e0e302e2c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\d7e899f5e41624e5ba06611b094404e9f02f5d31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3f701d39498ffc8945c587bc180310cd26606ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\17b426dd3f772390e6f4682605a1efc2a7a51970\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_6718046e47e6e55b68f7abc37b635536bc4b005d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\17b426dd3f772390e6f4682605a1efc2a7a51970\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6718046e47e6e55b68f7abc37b635536bc4b005d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\1a95e9eaf6b948be04ed23bab7dacd233d6e6000\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_d45705397b4272b78743e702f624699cd5c15fdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amarantine\.android\build-cache\1a95e9eaf6b948be04ed23bab7dacd233d6e6000\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fdd010a7ec0c33c75979087f7a5e5a943fb3c9c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amarantine\.android\build-cache\1a95e9eaf6b948be04ed23bab7dacd233d6e6000\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="H:\google\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fdd010a7ec0c33c75979087f7a5e5a943fb3c9c3.jar" />
+    </item>
+
+</items>
