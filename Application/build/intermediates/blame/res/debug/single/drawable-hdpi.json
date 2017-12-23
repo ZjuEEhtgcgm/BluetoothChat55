@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "E:\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\google\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "H:\\google\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "H:\\google\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "H:\\google\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "H:\\google\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\google\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "E:\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]
